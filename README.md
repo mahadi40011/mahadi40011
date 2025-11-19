@@ -1,4 +1,4 @@
-<img width="1024" height="300" alt="image" src="https://i.ibb.co.com/b5S053hC/github-header-banner.png" />
+<img width="1024" height="300" alt="image" src="https://i.ibb.co.com/v4KjP96t/Personal-Github-Banner.png" />
 
 ---
 
