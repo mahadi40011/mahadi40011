@@ -1,4 +1,6 @@
-<img width="1280" height="640" alt="image" src="https://i.ibb.co.com/v4KjP96t/Personal-Github-Banner.png" />
+<p align="center">
+  <img src="https://res.cloudinary.com/dm9tsyewr/image/upload/v1763528827/Personal_Github_Banner_nx6n6h.png" alt="" width="100%"/>
+</p>
 
 ---
 
