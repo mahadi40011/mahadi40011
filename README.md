@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://res.cloudinary.com/dm9tsyewr/image/upload/v1763528827/Personal_Github_Banner_nx6n6h.png" alt="" width="100%"/>
+  <img src="https://res.cloudinary.com/dm9tsyewr/image/upload/v1763621616/Black_Modern_Personal_LinkedIn_Banner_paztvi.png" alt="" width="100%"/>
 </p>
 
 ---
